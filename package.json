@@ -1,10 +1,10 @@
 {
-  "name": "variablefont.js",
-  "version": "0.0.0",
-  "description": "Library for using Variable Fonts. Extends the functionality of OpenType.js.",
+  "name": "@kennethormandy/variablefont.js",
+  "version": "0.1.0",
+  "description": "npm compatible fork of Monotype’s OpenType.js wrapper for using Variable Fonts.",
   "main": "variableFont.js",
-  "author": "",
-  "repository": "https://github.com/monotype/variableFont.js.git",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com>",
+  "repository": "https://github.com/kennethormandy/variableFont.js.git",
   "license": "MIT",
   "peerDependencies": {
     "opentype.js": "^0.8.0"
